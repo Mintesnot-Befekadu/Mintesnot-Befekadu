@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mintesnot-Befekadu
-- 👀 I’m interested in Payment Industry Applicaitons
-- 🌱 I’m currently learning UPF and API
-- 💞️ I’m looking to collaborate on Base24-eps and UPF projects
+- 👀 I’m interested in Payment Industry Applicaitons and spring boot microservice 
+- 🌱 I’m currently learning UPF, API and trending backend tecnologies
+- 💞️ I’m looking to collaborate on Spring microservices, Base24-eps and UPF projects
 - 📫 How to reach me rasmintae@gmail.com
 
 <!---
